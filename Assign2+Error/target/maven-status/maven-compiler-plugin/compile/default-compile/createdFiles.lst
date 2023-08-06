@@ -1,0 +1,11 @@
+ku\cs\models\MyMan.class
+ku\cs\services\FXRouter$1.class
+ku\cs\controllers\HelloController.class
+ku\cs\services\FXRouter.class
+ku\cs\services\FXRouter$RouteScene.class
+ku\cs\controllers\MyManListController.class
+ku\cs\services\MyManHardCodeDatasource.class
+module-info.class
+ku\cs\controllers\MyManListController$1.class
+ku\cs\assign2javafx\HelloApplication.class
+ku\cs\models\MyManList.class
